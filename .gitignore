@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.threadjs/
+*.json
+!session.json.example
